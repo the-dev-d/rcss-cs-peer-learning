@@ -1,0 +1,12 @@
+1. print hello world;
+2. add 2 numbers;
+3. operator presidence;
+4. divide 2 numbers;
+5. number lock;
+6. equality without equal or not equal;
+7. print something 10 times;
+8. counter
+9. sequence 1 2 4 7 11 .. n terms
+10. fibonnaci sequence
+
+https://en.cppreference.com/w/c/language/operator_precedence
